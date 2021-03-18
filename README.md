@@ -4,9 +4,12 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Concepts Covered
 * Common Header and Footer
 * Component including input properties
+* External links to Anchor Tag
+* Dynamic Content in Component 
 * Routing
 * Http calls for an third-party API
 * Basic Unit Tests
+* Mock service for Unit Test
 
 ## Running the Application with Node.js
 1. Install the Node.js from https://nodejs.org.
