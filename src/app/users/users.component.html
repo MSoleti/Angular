@@ -1,0 +1,18 @@
+
+
+<div class="container">
+  <div class="row">
+    <a [routerLink]="['/']">
+      <span class="glyphicon" ></span> <- Back
+    </a>
+    <div class="col-lg-8 mx-auto">
+      <h2>List of Users</h2>
+      <p class="lead">This data is getting ready by ThirdParty API.</p>
+      <ul>
+        <li *ngFor="let user of userData">
+          {{user.name}}
+        </li>
+      </ul>
+    </div>
+  </div>
+</div>
