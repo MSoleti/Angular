@@ -29,6 +29,6 @@ describe('AppComponent', () => {
   it(`should have as repoUrl`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.repoUrl).toEqual('https://github.com/MSoleti/AngularApp');
+    expect(app.repoUrl).toEqual('https://github.com/MSoleti/Angular');
   });
 });
