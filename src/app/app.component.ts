@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   username:string =" Madhu Soleti..!"
-  repoUrl:string="https://github.com/MSoleti";
+  repoUrl:string="https://github.com/MSoleti/Angular";
 }
